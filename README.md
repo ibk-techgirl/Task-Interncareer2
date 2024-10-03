@@ -1,7 +1,7 @@
 # Terrorism Data Analysis Dashboard 
 
-![First Image](https://drive.google.com/uc?export=view&id=FIRST_FILE_ID)
-![Second Image](https://drive.google.com/uc?export=view&id=SECOND_FILE_ID)
+![Terrorism Dashboard Image](https://drive.google.com/uc?export=view&id=13YpLh7Dfk7uw8x_AHXfKu_xL3SzH8d9J)
+![Terrorism Dashboard Image](https://drive.google.com/uc?export=view&id=1je8kg8-cUEe9EFecQYQPiJKqPEKUZr5v)
 
 ## Overview
 
