@@ -1,5 +1,7 @@
 # Terrorism Data Analysis Dashboard 
 
+![Terrorism Dashboard Image](https://drive.google.com/uc?export=view&id=13YpLh7Dfk7uw8x_AHXfKu_xL3SzH8d9J)
+
 ## Overview
 
 This project presents a comprehensive Power BI dashboard analyzing global terrorism incidents across multiple dimensions such as attack types, targets, regional distribution, and fatalities. The dataset, derived from historical records, provides valuable insights for decision-makers, analysts, and researchers in the field of counter-terrorism and security. The dashboard is designed to be fully interactive, enabling users to filter data based on year, region, and type of target or attack, revealing important trends and patterns.
